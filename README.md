@@ -15,3 +15,7 @@ The sum of the absolute differences between corresponding values.
 Also known as least absolute deviations (LAD), least absolute errors (LAE)
 
 <img src="./images/L1_distance.png" width="50%" />
+
+<hr>
+3. Mahalanobis distance
+

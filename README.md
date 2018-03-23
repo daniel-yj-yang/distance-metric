@@ -46,9 +46,14 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 <a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>
 
 <hr>
+
 To be completed:
+
 (1) when to use the Euclidean Squared distance metric?
+
 (2) why it is a bad idea to use Euclidean distance in higher dimensional space?
+
 (3) <a href="https://www.researchgate.net/post/What_is_the_best_distance_measure_for_high_dimensional_data">what distance metric should be used in higher dimensional space?</a>
+
 (4) when to use the cosine distance metric?
 

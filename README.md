@@ -5,4 +5,4 @@ A collection of distance metrics
 
 The square root of the sum of the squares of the differences between corresponding values.
 
-![Euclidean distance](./images/Euclidean_distance.png){width=50%}
+![Euclidean distance](./images/Euclidean_distance.png | width=50%)

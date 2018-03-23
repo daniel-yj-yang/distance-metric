@@ -8,6 +8,8 @@ The square root of the sum of the squares of the differences between correspondi
 
 <img src="./images/Euclidean_distance.png" width="50%" />
 
+Note that <a href="https://stats.stackexchange.com/questions/99171/why-is-euclidean-distance-not-a-good-metric-in-high-dimensions">the Euclidean distance is usually not a good metric in higher dimensional space.</a>
+
 <hr>
 2. <a href="https://en.wikipedia.org/wiki/Least_absolute_deviations">L<sup>1</sup> norm/distance</a>
 
@@ -25,7 +27,7 @@ Ma-ha-la-nobis distance is a measure of distnace between points in a given distr
 
 It is unitless and scale-invariant.
 
-When the distribution (in terms of the covariance matrix) is an identity matrix, the distance is the same as the Euclidean distance.
+When the distribution (in terms of the covariance matrix) is an identity matrix, the distance is the same as the **Euclidean distance**.
 
 <hr>
 4. <a href="https://en.wiktionary.org/wiki/Manhattan_distance">Manhattan distance</a>
@@ -34,3 +36,7 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 
 <img src="./images/Manhattan_distance.png" width="50%" />
 
+<hr>
+5. Cosine distance
+
+<a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>

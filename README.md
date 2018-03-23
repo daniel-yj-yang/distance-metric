@@ -17,8 +17,7 @@ Also known as least absolute deviations (LAD), least absolute errors (LAE)
 <img src="./images/L1_distance.png" width="50%" />
 
 <hr>
-
-3. Mahalanobis distance
+3. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis distance</a>
 
 A very nice explanation can be found <a href="https://stats.stackexchange.com/questions/62092/bottom-to-top-explanation-of-the-mahalanobis-distance">here</a><br>
 
@@ -28,4 +27,10 @@ It is unitless and scale-invariant.
 
 When the distribution (in terms of the covariance matrix) is an identity matrix, the distance is the same as the Euclidean distance.
 
+<hr>
+4. <a href="https://en.wiktionary.org/wiki/Manhattan_distance">Manhattan distance</a>
+
+Just imagine a grid-like street geography of the Manhattan borough in NYC.
+
+<img src="./images/Manhattan_distance.png" width="50%" />
 

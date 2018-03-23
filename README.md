@@ -43,7 +43,7 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 <hr>
 5. Cosine distance
 
-<a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>
+<a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>, which is good at measuring the similarity of patterns of feature changes, independent of the absolute amplitude of the compared feature vectors.
 
 <hr>
 

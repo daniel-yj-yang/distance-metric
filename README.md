@@ -20,3 +20,12 @@ Also known as least absolute deviations (LAD), least absolute errors (LAE)
 
 3. Mahalanobis distance
 
+A very nice explanation can be found <a href="https://stats.stackexchange.com/questions/62092/bottom-to-top-explanation-of-the-mahalanobis-distance">here</a><br>
+
+Ma-ha-la-nobis distance is a measure of distnace between points in a given distribution.
+
+It is unitless and scale-invariant.
+
+When the distribution (in terms of the covariance matrix) is an identity matrix, the distance is the same as the Euclidean distance.
+
+

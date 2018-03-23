@@ -30,7 +30,7 @@ When the distribution (in terms of the covariance matrix) is an identity matrix,
 <hr>
 4. <a href="https://en.wiktionary.org/wiki/Manhattan_distance">Manhattan distance</a>
 
-Just imagine a grid-like street geography of the Manhattan borough in NYC.
+Imagine a grid-like street geography of the Manhattan borough in NYC.
 
 <img src="./images/Manhattan_distance.png" width="50%" />
 

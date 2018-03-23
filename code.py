@@ -52,3 +52,7 @@ print(Euclidean_dist_np, Euclidean_dist_sp, Euclidean_dist)
 # L1 norm
 L1_dist_np = np.linalg.norm(point1-point2, ord=1) # L1 norm
 print(L1_dist_np)
+
+
+# Mahalanobis distance
+#distance.mahalanobis

@@ -46,6 +46,18 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 <a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>, which is good at measuring the similarity of patterns of feature changes, *independent of* the absolute amplitude of the compared feature vectors.
 
 <hr>
+6. <a href="https://en.wikipedia.org/wiki/Minkowski_distance">Minkowski distance</a>
+
+A generalization of both the Euclidean distance and the Manhattan distance in a normed vector space, used in kNN algorithm.
+
+<hr>
+7. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis distance</a>
+
+It is a multi-dimensional generalization of the idea of measuring how many standard deviations away P is from the mean of D. This distance is zero if P is at the mean of D.
+
+The Mahalanobis distance is thus unitless and scale-invariant, and takes into account the correlations of the data set.
+
+<hr>
 
 To be completed:
 

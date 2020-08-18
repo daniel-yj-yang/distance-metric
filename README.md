@@ -25,11 +25,11 @@ Also known as least absolute deviations (LAD), least absolute errors (LAE)
 <hr>
 3. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis distance</a>
 
+It is a multi-dimensional generalization of the idea of measuring how many standard deviations away P (points) is from the mean of D (distribution). This distance is zero if P is at the mean of D.
+
+The Mahalanobis distance is thus unitless and scale-invariant, and takes into account the correlations of the data set.
+
 A very nice explanation can be found <a href="https://stats.stackexchange.com/questions/62092/bottom-to-top-explanation-of-the-mahalanobis-distance">here</a><br>
-
-Ma-ha-la-nobis distance is a measure of distnace between points in a given distribution.
-
-It is unitless and scale-invariant.
 
 When the distribution (in terms of the covariance matrix) is an identity matrix, the distance is the same as the **Euclidean distance**.
 
@@ -49,13 +49,6 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 6. <a href="https://en.wikipedia.org/wiki/Minkowski_distance">Minkowski distance</a>
 
 A generalization of both the Euclidean distance and the Manhattan distance in a normed vector space, used in kNN algorithm.
-
-<hr>
-7. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis distance</a>
-
-It is a multi-dimensional generalization of the idea of measuring how many standard deviations away P is from the mean of D. This distance is zero if P is at the mean of D.
-
-The Mahalanobis distance is thus unitless and scale-invariant, and takes into account the correlations of the data set.
 
 <hr>
 

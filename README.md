@@ -23,7 +23,7 @@ Also known as least absolute deviations (LAD), least absolute errors (LAE)
 <img src="./images/L1_distance.png" width="50%" />
 
 <hr>
-3. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis distance</a>
+3. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis (Ma-ha-la-nobis) distance</a>
 
 It is a multi-dimensional generalization of the idea of measuring how many standard deviations away P (points) is from the mean of D (distribution). This distance is zero if P is at the mean of D.
 

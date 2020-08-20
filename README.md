@@ -51,7 +51,11 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 A generalization of both the Euclidean distance and the Manhattan distance in a normed vector space, used in kNN algorithm.
 
 <hr>
+7. <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient#Pearson's_distance">Pearson's distance</a>
 
+d(x,y) = 1 - Pearson's correlation (x, y)
+
+<hr>
 To be completed:
 
 (1) when to use the Euclidean Squared distance metric?

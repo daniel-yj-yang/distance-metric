@@ -2,7 +2,15 @@
 A collection of distance metrics
 
 <hr>
-1. L<sup>2</sup> norm / <a href="https://en.wikipedia.org/wiki/Euclidean_distance">Euclidean distance/norm</a>
+1. <a href="https://en.wikipedia.org/wiki/Least_absolute_deviations">L<sup>1</sup> norm/distance</a>
+
+The sum of the absolute differences between corresponding values.
+Also known as least absolute deviations (LAD), least absolute errors (LAE)
+
+<img src="./images/L1_distance.png" width="50%" />
+
+<hr>
+2. L<sup>2</sup> norm / <a href="https://en.wikipedia.org/wiki/Euclidean_distance">Euclidean distance/norm</a>
 
 The square root of the sum of the squares of the differences between corresponding values.
 
@@ -13,14 +21,6 @@ Notes:
 (1). <a href="https://stats.stackexchange.com/questions/99171/why-is-euclidean-distance-not-a-good-metric-in-high-dimensions">the Euclidean distance is usually not a good metric in higher dimensional space.</a>
 
 (2). When the square root is removed, it is an <a href="http://www.improvedoutcomes.com/docs/WebSiteDocs/Clustering/Clustering_Parameters/Euclidean_and_Euclidean_Squared_Distance_Metrics.htm">Euclidean Squared distance</a>
-
-<hr>
-2. <a href="https://en.wikipedia.org/wiki/Least_absolute_deviations">L<sup>1</sup> norm/distance</a>
-
-The sum of the absolute differences between corresponding values.
-Also known as least absolute deviations (LAD), least absolute errors (LAE)
-
-<img src="./images/L1_distance.png" width="50%" />
 
 <hr>
 3. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis (Ma-ha-la-nobis) distance</a>

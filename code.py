@@ -38,16 +38,22 @@ from scipy.spatial import distance
 def Euclidean_dist(p1, p2):
     return np.sqrt(np.sum((p1-p2)**2))
 
-
-point1 = np.array([1, 2, 3])
-point2 = np.array([4, 5, 6])
+origin = np.array([0., 0., 0.])
+point1 = np.array([1., 2., 3.])
+point2 = np.array([4., 5., 6.])
 
 # Euclidean distance
 Euclidean_dist_np = np.linalg.norm(point1-point2, ord=2) # L2 norm
 Euclidean_dist_sp = distance.euclidean(point1, point2)  # slower than numpy (twice as slower)
-Euclidean_dist = Euclidean_dist(point1, point2)
-print(Euclidean_dist_np, Euclidean_dist_sp, Euclidean_dist)
+Euclidean_dist_func = Euclidean_dist(point1, point2)
+print(Euclidean_dist_np, Euclidean_dist_sp, Euclidean_dist_func)
 
+# Cosine distance
+dot_product = np.dot(point1, point2)
+cosine = dot_product / ( Euclidean_dist( point1, origin ) * Euclidean_dist( point2, origin ) )
+cosine_distance_manual = 1 - cosine
+cosine_distance_sp = distance.cosine( point1, point2 )
+print(cosine_distance_manual, cosine_distance_sp)
 
 # L1 norm
 L1_dist_np = np.linalg.norm(point1-point2, ord=1) # L1 norm

@@ -18,7 +18,7 @@ The square root of the sum of the squares of the differences between correspondi
 
 <img src="./images/Euclidean_distance.png" width="50%" />
 
-<img src="./images/Euclidean_distance_as_inner_product.png" width="500px>
+<img src="./images/Euclidean_distance_as_inner_product.png" width="500px">
                                                                    
 Notes:
 

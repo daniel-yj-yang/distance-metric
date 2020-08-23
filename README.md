@@ -96,6 +96,15 @@ Used to provide n x n matrix for <a href="https://en.wikipedia.org/wiki/Multidim
 
 <hr>
 
+## 10. <a href="https://en.wikipedia.org/wiki/Hamming_distance">Hamming distance</a>
+
+Between two strings of equal length, the number of positions at which the corresponding symbols are different
+
+Examples (from <a href="https://en.wikipedia.org/wiki/Hamming_distance">wikipedia</a>):
+<img src="./images/Hamming_distance_example.png">
+
+<hr>
+
 Some questions:
 
 (1) when to use the Euclidean Squared distance metric?

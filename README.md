@@ -90,7 +90,7 @@ May be used in the kNN algorithm.
 
 Dissimilarity between sample sets
 
-<img src="./images/Jaccard_distance.png" width="300px">
+<img src="./images/Jaccard_distance.png" width="350px">
 
 Used to provide n x n matrix for multidimensional scaling.
 

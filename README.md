@@ -4,15 +4,16 @@ A collection of distance metrics
 <hr>
 
 ## 1. <a href="https://en.wikipedia.org/wiki/Least_absolute_deviations">L<sup>1</sup> norm</a>
-<br/><br/>
+
 The sum of the absolute differences between corresponding values.
 Also known as least absolute deviations (LAD), least absolute errors (LAE)
 
 <img src="./images/L1_distance.png" width="50%" />
 
 <hr>
+
 ## 2. L<sup>2</sup> norm / <a href="https://en.wikipedia.org/wiki/Euclidean_distance">Euclidean distance</a>
-<br/><br/>
+
 The square root of the sum of the squares of the differences between corresponding values.
 
 <img src="./images/Euclidean_distance.png" width="50%" />
@@ -24,6 +25,7 @@ Notes:
 (2). When the square root is removed, it is an <a href="http://www.improvedoutcomes.com/docs/WebSiteDocs/Clustering/Clustering_Parameters/Euclidean_and_Euclidean_Squared_Distance_Metrics.htm">Euclidean Squared distance</a>
 
 <hr>
+
 ## 3. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis (Ma-ha-la-nobis) distance</a>
 <br/><br/>
 It is a multi-dimensional generalization of the idea of measuring how many standard deviations away P (points) is from the mean of D (distribution). This distance is zero if P is at the mean of D.

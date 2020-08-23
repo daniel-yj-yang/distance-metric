@@ -30,7 +30,7 @@ Notes:
 
 <hr>
 
-## 3. <a href="https://mathworld.wolfram.com/VectorNorm.html">L<sup>p</sup> norm</a>, that is, p-norm of vector v, norm[v, p]
+## 3. <a href="https://mathworld.wolfram.com/VectorNorm.html">L<sup>p</sup> norm</a>, that is, <a href="https://en.wikipedia.org/wiki/Lp_space#The_p-norm_in_finite_dimensions">p-norm of vector v</a>, norm[v, p]
 
 <p align="center"><img src="./images/vector_norm_definition.png" width="350px"></p>
 
@@ -39,6 +39,12 @@ For example, vector v = (4, 5, 6)
 name | symbol | value | approx.
 --- | --- | --- | ---
 L<sup>1</sup>-norm | \|x\|<sub>1</sub> | 4+5+6 = 15 | 15.000
+L<sup>2</sup>-norm | \|x\|<sub>2</sub> | (16+25+36) ** (1/2) | 8.775
+L<sup>3</sup>-norm | \|x\|<sub>3</sub> | (64+125+216) ** (1/3) | 7.399
+L<sup>4</sup>-norm | \|x\|<sub>4</sub> | (256+625+1296) ** (1/4) | 6.831
+L<sup>∞</sup>-norm | \|x\|<sub>∞</sub> | max{ \|4\|, \|5\|, \|6\| } | 6
+
+Note: <a href="https://en.wikipedia.org/wiki/Lp_space">L = Lebesgue</a>
 
 <hr>
 

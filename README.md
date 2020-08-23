@@ -48,6 +48,10 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 
 ## 5. Cosine distance
 
+cosine distance = 1 - cosine similarity
+
+<img src="./images/cosine_similarity.png" width="300px"><br/>(based on the <a href="https://en.wikipedia.org/wiki/Dot_product">dot product</a> of two vectors)
+
 <a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>, which is good at measuring the similarity of patterns of feature changes, *independent of* the absolute amplitude of the compared feature vectors.
 <br/><br/>
 May be used in a number of ML algorithms, including kNN.
@@ -79,6 +83,16 @@ That is, the distance between two vectors is the greatest of their differences a
 <br/>
 
 May be used in the kNN algorithm.
+
+<hr>
+
+## 9. <a href="https://en.wikipedia.org/wiki/Jaccard_index">Jaccard distance</a>
+
+Dissimilarity between sample sets
+
+<img src="./images/Jaccard_distance.png" width="300px">
+
+Used to provide n x n matrix for multidimensional scaling.
 
 <hr>
 

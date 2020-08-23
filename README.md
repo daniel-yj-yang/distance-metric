@@ -46,7 +46,7 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 
 <hr>
 
-## 5. Cosine distance
+## 5. <a href="https://en.wikipedia.org/wiki/Cosine_similarity">Cosine distance</a>
 
 cosine distance = 1 - cosine similarity
 

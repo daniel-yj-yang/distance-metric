@@ -24,9 +24,13 @@ Using some linear algebra notation, we can express <a href="https://math.stackex
                                                                    
 Notes:
 
-(1). <a href="https://stats.stackexchange.com/questions/99171/why-is-euclidean-distance-not-a-good-metric-in-high-dimensions">the Euclidean distance is usually not a good metric in higher dimensional space.</a>
+(1) <a href="https://stats.stackexchange.com/questions/99171/why-is-euclidean-distance-not-a-good-metric-in-high-dimensions">the Euclidean distance is usually not a good metric in higher dimensional space.</a>
 
-(2). When the square root is removed, it is an <a href="http://www.improvedoutcomes.com/docs/WebSiteDocs/Clustering/Clustering_Parameters/Euclidean_and_Euclidean_Squared_Distance_Metrics.htm">Euclidean Squared distance</a>
+(2) When the square root is removed, it is an <a href="http://www.improvedoutcomes.com/docs/WebSiteDocs/Clustering/Clustering_Parameters/Euclidean_and_Euclidean_Squared_Distance_Metrics.htm">Euclidean Squared distance</a>
+
+(3) The matrix norm of a matrix is called the <a href="https://mathworld.wolfram.com/FrobeniusNorm.html"><b>Frobenius Norm</b></a> / distance, or <a href="https://mathworld.wolfram.com/Hilbert-SchmidtNorm.html"><b>Hilbert-Schmidt Norm</b></a> / distance.
+
+<p align="center"><img src="./images/Frobenius_Norm.png" width="300px"></p>
 
 <hr>
 

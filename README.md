@@ -38,7 +38,7 @@ For example, vector v = (4, 5, 6)
 
 name | symbol | value | approx.
 --- | --- | --- | ---
-L<sup>1</sup>-norm | |x|<sub>1</sub> | 4+5+6 = 15 | 15.000
+L<sup>1</sup>-norm | \|x\|<sub>1</sub> | 4+5+6 = 15 | 15.000
 
 <hr>
 

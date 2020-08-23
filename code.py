@@ -48,6 +48,7 @@ Euclidean_dist_sp = distance.euclidean(point1, point2)  # slower than numpy (twi
 Euclidean_dist_func = Euclidean_dist(point1, point2)
 print(Euclidean_dist_np, Euclidean_dist_sp, Euclidean_dist_func)
 
+
 # Cosine distance
 dot_product = np.dot(point1, point2)
 cosine = dot_product / ( Euclidean_dist( point1, origin ) * Euclidean_dist( point2, origin ) )

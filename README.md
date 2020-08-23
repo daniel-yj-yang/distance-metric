@@ -18,6 +18,7 @@ The square root of the sum of the squares of the differences between correspondi
 
 <img src="./images/Euclidean_distance.png" width="50%" />
 
+Using some linear algebra notation, we can express <a href="https://math.stackexchange.com/questions/1236465/euclidean-distance-and-dot-product">Euclidean distance using inner product notation</a>:
 <img src="./images/Euclidean_distance_as_inner_product.png" width="500px">
                                                                    
 Notes:

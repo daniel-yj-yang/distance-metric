@@ -46,7 +46,7 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 
 <hr>
 
-## 5. Cosine distance
+## 5. <a href="https://en.wikipedia.org/wiki/Cosine_similarity">Cosine distance</a>
 
 cosine distance = 1 - cosine similarity
 
@@ -90,9 +90,9 @@ May be used in the kNN algorithm.
 
 Dissimilarity between sample sets
 
-<img src="./images/Jaccard_distance.png" width="300px">
+<img src="./images/Jaccard_distance.png" width="350px">
 
-Used to provide n x n matrix for multidimensional scaling.
+Used to provide n x n matrix for <a href="https://en.wikipedia.org/wiki/Multidimensional_scaling">multidimensional scaling</a>.
 
 <hr>
 

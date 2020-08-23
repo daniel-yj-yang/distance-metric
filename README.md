@@ -27,7 +27,7 @@ Notes:
 <hr>
 
 ## 3. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis (Ma-ha-la-nobis) distance</a>
-<br/><br/>
+
 It is a multi-dimensional generalization of the idea of measuring how many standard deviations away P (points) is from the mean of D (distribution). This distance is zero if P is at the mean of D.
 
 The Mahalanobis distance is thus unitless and scale-invariant, and takes into account the correlations of the data set.
@@ -37,32 +37,37 @@ A very nice explanation can be found <a href="https://stats.stackexchange.com/qu
 When the distribution (in terms of the covariance matrix) is an identity matrix, the distance is the same as the **Euclidean distance**.
 
 <hr>
+
 ## 4. <a href="https://en.wiktionary.org/wiki/Manhattan_distance">Manhattan distance</a>
-<br/><br/>
+
 Imagine a grid-like street geography of the Manhattan borough in NYC.
 
 <img src="./images/Manhattan_distance.png" width="50%" />
 
 <hr>
+
 ## 5. Cosine distance
-<br/><br/>
+
 <a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>, which is good at measuring the similarity of patterns of feature changes, *independent of* the absolute amplitude of the compared feature vectors.
 <br/><br/>
 May be used in a number of ML algorithms, including kNN.
 
 <hr>
+
 ## 6. <a href="https://en.wikipedia.org/wiki/Minkowski_distance">Minkowski distance</a>
-<br/><br/>
+
 A generalization of both the Euclidean distance and the Manhattan distance in a normed vector space, used in kNN algorithm.
 
 <hr>
+
 ## 7. <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient#Pearson's_distance">Pearson's distance</a>
-<br/><br/>
+
 d(x,y) = 1 - Pearson's correlation (x, y)
 
 <hr>
+
 ## 8. <a href="https://en.wikipedia.org/wiki/Chebyshev_distance">Chebyshev (chessboard) distance</a>
-<br/><br/>
+
 The Chebyshev distance between two vectors or points x and y, with standard coordinates x<sub>i</sub> and y<sub>i</sub>, respectively, is
 
 D<sub>Chebyshev</sub>(x,y) := max( | x<sub>i</sub> - y<sub>i</sub> | )

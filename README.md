@@ -18,6 +18,8 @@ The square root of the sum of the squares of the differences between correspondi
 
 <img src="./images/Euclidean_distance.png" width="50%" />
 
+<img src="./images/Euclidean_distance_as_inner_product.png" width="500px>
+                                                                   
 Notes:
 
 (1). <a href="https://stats.stackexchange.com/questions/99171/why-is-euclidean-distance-not-a-good-metric-in-high-dimensions">the Euclidean distance is usually not a good metric in higher dimensional space.</a>

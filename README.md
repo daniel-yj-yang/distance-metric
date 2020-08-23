@@ -30,7 +30,13 @@ Notes:
 
 <hr>
 
-## 3. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis (Ma-ha-la-nobis) distance</a>
+## 3. <a href="https://mathworld.wolfram.com/VectorNorm.html">p-norm of vector v, norm[v, p]</a>
+
+<img src="./images/vector_norm_definition.png" width="200px">
+
+<hr>
+
+## 4. <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance">Mahalanobis (Ma-ha-la-nobis) distance</a>
 
 It is a multi-dimensional generalization of the idea of measuring how many standard deviations away P (points) is from the mean of D (distribution). This distance is zero if P is at the mean of D.
 
@@ -42,7 +48,7 @@ When the distribution (in terms of the covariance matrix) is an identity matrix,
 
 <hr>
 
-## 4. <a href="https://en.wiktionary.org/wiki/Manhattan_distance">Manhattan distance</a>
+## 5. <a href="https://en.wiktionary.org/wiki/Manhattan_distance">Manhattan distance</a>
 
 Imagine a grid-like street geography of the Manhattan borough in NYC.
 
@@ -50,7 +56,7 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 
 <hr>
 
-## 5. <a href="https://en.wikipedia.org/wiki/Cosine_similarity">Cosine distance</a>
+## 6. <a href="https://en.wikipedia.org/wiki/Cosine_similarity">Cosine distance</a>
 
 cosine distance = 1 - cosine similarity
 
@@ -64,19 +70,19 @@ May be used in a number of ML algorithms, including kNN.
 
 <hr>
 
-## 6. <a href="https://en.wikipedia.org/wiki/Minkowski_distance">Minkowski distance</a>
+## 7. <a href="https://en.wikipedia.org/wiki/Minkowski_distance">Minkowski distance</a>
 
 A generalization of both the Euclidean distance and the Manhattan distance in a normed vector space, used in kNN algorithm.
 
 <hr>
 
-## 7. <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient#Pearson's_distance">Pearson's distance</a>
+## 8. <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient#Pearson's_distance">Pearson's distance</a>
 
 d(x,y) = 1 - Pearson's correlation (x, y)
 
 <hr>
 
-## 8. <a href="https://en.wikipedia.org/wiki/Chebyshev_distance">Chebyshev (chessboard) distance</a>
+## 9. <a href="https://en.wikipedia.org/wiki/Chebyshev_distance">Chebyshev (chessboard) distance</a>
 
 The Chebyshev distance between two vectors or points x and y, with standard coordinates x<sub>i</sub> and y<sub>i</sub>, respectively, is
 
@@ -92,7 +98,7 @@ May be used in the kNN algorithm.
 
 <hr>
 
-## 9. <a href="https://en.wikipedia.org/wiki/Jaccard_index">Jaccard distance</a>
+## 10. <a href="https://en.wikipedia.org/wiki/Jaccard_index">Jaccard distance</a>
 
 Dissimilarity between sample sets
 
@@ -102,7 +108,7 @@ Used to provide n x n matrix for <a href="https://en.wikipedia.org/wiki/Multidim
 
 <hr>
 
-## 10. <a href="https://en.wikipedia.org/wiki/Hamming_distance">Hamming distance</a>
+## 11. <a href="https://en.wikipedia.org/wiki/Hamming_distance">Hamming distance</a>
 
 Between two strings of equal length, the number of positions at which the corresponding symbols are different.
 

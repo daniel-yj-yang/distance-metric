@@ -44,7 +44,7 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 ## 5. Cosine distance
 <br/><br/>
 <a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>, which is good at measuring the similarity of patterns of feature changes, *independent of* the absolute amplitude of the compared feature vectors.
-
+<br/>
 May be used in a number of ML algorithms, including kNN.
 
 <hr>
@@ -67,6 +67,10 @@ D<sub>Chebyshev</sub>(x,y) := max( | x<sub>i</sub> - y<sub>i</sub> | )
 That is, the distance between two vectors is the greatest of their differences along <b>any coordinate dimension</b>.
 
 <p align="center"><img src="./images/chessboard_distance_example.png" width="400px"><br/>(<a href="https://en.wikipedia.org/wiki/Chebyshev_distance">image source</a>)</p>
+
+<br/>
+
+May be used in the kNN algorithm.
 
 <hr>
 

@@ -28,7 +28,7 @@ Notes:
 
 (2) When the square root is removed, it is an <a href="http://www.improvedoutcomes.com/docs/WebSiteDocs/Clustering/Clustering_Parameters/Euclidean_and_Euclidean_Squared_Distance_Metrics.htm">Euclidean Squared distance</a>
 
-(3) The matrix norm of a matrix is called the <a href="https://mathworld.wolfram.com/FrobeniusNorm.html"><b>Frobenius Norm</b></a> / distance, or <a href="https://mathworld.wolfram.com/Hilbert-SchmidtNorm.html"><b>Hilbert-Schmidt Norm</b></a> / distance.
+(3) The matrix norm of an m x n matrix is called the <a href="https://mathworld.wolfram.com/FrobeniusNorm.html"><b>Frobenius Norm</b></a> / distance, or <a href="https://mathworld.wolfram.com/Hilbert-SchmidtNorm.html"><b>Hilbert-Schmidt Norm</b></a> / distance.
 
 <p align="center"><img src="./images/Frobenius_Norm.png" width="150px"></p>
 

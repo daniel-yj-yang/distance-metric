@@ -32,7 +32,7 @@ It is a multi-dimensional generalization of the idea of measuring how many stand
 
 The Mahalanobis distance is thus unitless and scale-invariant, and takes into account the correlations of the data set.
 
-A nice explanation can be found <a href="https://stats.stackexchange.com/questions/62092/bottom-to-top-explanation-of-the-mahalanobis-distance">here</a><br>.
+A nice explanation can be found <a href="https://stats.stackexchange.com/questions/62092/bottom-to-top-explanation-of-the-mahalanobis-distance">here</a>.<br>
 
 When the distribution (in terms of the covariance matrix) is an identity matrix, the distance is the same as the **Euclidean distance**.
 

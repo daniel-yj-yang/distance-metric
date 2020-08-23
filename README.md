@@ -45,6 +45,8 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 
 <a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>, which is good at measuring the similarity of patterns of feature changes, *independent of* the absolute amplitude of the compared feature vectors.
 
+May be used in a number of ML algorithms, including kNN.
+
 <hr>
 6. <a href="https://en.wikipedia.org/wiki/Minkowski_distance">Minkowski distance</a>
 
@@ -54,6 +56,11 @@ A generalization of both the Euclidean distance and the Manhattan distance in a 
 7. <a href="https://en.wikipedia.org/wiki/Pearson_correlation_coefficient#Pearson's_distance">Pearson's distance</a>
 
 d(x,y) = 1 - Pearson's correlation (x, y)
+
+<hr>
+8. <a href="https://en.wikipedia.org/wiki/Chebyshev_distance">Chebyshev (chessboard) distance</a>
+
+D<sub>Chebyshev</sub>(x,y) := max( | x<sub>i</sub> - y<sub>i</sub> | )
 
 <hr>
 

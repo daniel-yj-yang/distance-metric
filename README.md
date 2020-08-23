@@ -82,7 +82,7 @@ Note: <a href="https://www.coursera.org/lecture/pca-machine-learning/inner-produ
 
 <a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>, which is good at measuring the similarity of patterns of feature changes, *independent of* the absolute amplitude of the compared feature vectors.
 <br/><br/>
-May be used in a number of ML algorithms, including kNN.
+May be used in a number of ML algorithms, including kNN and collaborative filtering.
 
 <hr>
 

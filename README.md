@@ -98,7 +98,7 @@ Used to provide n x n matrix for <a href="https://en.wikipedia.org/wiki/Multidim
 
 ## 10. <a href="https://en.wikipedia.org/wiki/Hamming_distance">Hamming distance</a>
 
-Between two strings of equal length, the number of positions at which the corresponding symbols are different
+Between two strings of equal length, the number of positions at which the corresponding symbols are different.
 
 Examples (from <a href="https://en.wikipedia.org/wiki/Hamming_distance">wikipedia</a>):<br/>
 <img src="./images/Hamming_distance_example.png" width="250px">

@@ -92,7 +92,7 @@ Dissimilarity between sample sets
 
 <img src="./images/Jaccard_distance.png" width="350px">
 
-Used to provide n x n matrix for multidimensional scaling.
+Used to provide n x n matrix for <a href="https://en.wikipedia.org/wiki/Multidimensional_scaling">multidimensional scaling</a>.
 
 <hr>
 

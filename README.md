@@ -30,9 +30,15 @@ Notes:
 
 <hr>
 
-## 3. <a href="https://mathworld.wolfram.com/VectorNorm.html">L<sup><i>p</i></sup> norm</a>, that is, p-norm of vector v, norm[v, p]
+## 3. <a href="https://mathworld.wolfram.com/VectorNorm.html">L<sup>p</sup> norm</a>, that is, p-norm of vector v, norm[v, p]
 
 <p align="center"><img src="./images/vector_norm_definition.png" width="350px"></p>
+
+For example, vector v = (4, 5, 6)
+
+name | symbol | value | approx.
+--- | --- | --- | ---
+L<sup>1</sup>-norm | |x|<sub>1</sub> | 4+5+6 = 15 | 15.000
 
 <hr>
 

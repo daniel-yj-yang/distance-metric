@@ -42,7 +42,7 @@ L<sup>1</sup>-norm | \|x\|<sub>1</sub> | (4+5+6) | 15.000
 L<sup>2</sup>-norm | \|x\|<sub>2</sub> | (16+25+36) ** (1/2) | 8.775
 L<sup>3</sup>-norm | \|x\|<sub>3</sub> | (64+125+216) ** (1/3) | 7.399
 L<sup>4</sup>-norm | \|x\|<sub>4</sub> | (256+625+1296) ** (1/4) | 6.831
-L<sup>∞</sup>-norm | \|x\|<sub>∞</sub> | max{ \|4\|, \|5\|, \|6\| } | 6
+L<sup>∞</sup>-norm | \|x\|<sub>∞</sub> | max{ \|4\|, \|5\|, \|6\| } | 6.000
 
 Note: <a href="https://en.wikipedia.org/wiki/Lp_space">L = Lebesgue</a>
 

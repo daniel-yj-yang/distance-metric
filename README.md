@@ -20,6 +20,7 @@ The square root of the sum of the squares of the differences between correspondi
 
 Using some linear algebra notation, we can express <a href="https://math.stackexchange.com/questions/1236465/euclidean-distance-and-dot-product">Euclidean distance using inner product notation</a>:
 <p align="center"><img src="./images/Euclidean_distance_as_inner_product.png" width="500px"></p>
+<p align="center"><img src="./images/length_of_vector.png" width="500px"></p>
                                                                    
 Notes:
 
@@ -54,6 +55,8 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 cosine distance = 1 - cosine similarity
 
 <img src="./images/cosine_similarity.png" width="300px"><br/>(based on the <a href="https://en.wikipedia.org/wiki/Dot_product">dot product</a> of two vectors)
+
+Note: <a href="https://www.coursera.org/lecture/pca-machine-learning/inner-product-distances-between-vectors-TDaFw">dot product is one kind of inner product</a>
 
 <a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>, which is good at measuring the similarity of patterns of feature changes, *independent of* the absolute amplitude of the compared feature vectors.
 <br/><br/>

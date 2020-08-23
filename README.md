@@ -74,7 +74,7 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 
 ## 6. <a href="https://en.wikipedia.org/wiki/Cosine_similarity">Cosine distance</a>
 
-cosine distance = 1 - cosine similarity
+cosine distance = (1 - cosine similarity)
 
 <img src="./images/cosine_similarity.png" width="300px"><br/>(based on the <a href="https://en.wikipedia.org/wiki/Dot_product">dot product</a> of two vectors)
 

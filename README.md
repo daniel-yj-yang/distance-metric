@@ -30,7 +30,7 @@ Notes:
 
 (3) The matrix norm of a matrix is called the <a href="https://mathworld.wolfram.com/FrobeniusNorm.html"><b>Frobenius Norm</b></a> / distance, or <a href="https://mathworld.wolfram.com/Hilbert-SchmidtNorm.html"><b>Hilbert-Schmidt Norm</b></a> / distance.
 
-<p align="center"><img src="./images/Frobenius_Norm.png" width="300px"></p>
+<p align="center"><img src="./images/Frobenius_Norm.png" width="200px"></p>
 
 <hr>
 

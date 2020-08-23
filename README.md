@@ -66,7 +66,7 @@ D<sub>Chebyshev</sub>(x,y) := max( | x<sub>i</sub> - y<sub>i</sub> | )
 
 That is, the distance between two vectors is the greatest of their differences along any coordinate dimension.
 
-<p align="center"><img src="./images/chessboard_distance_example.png" width="500px"><br/>(<a href="https://en.wikipedia.org/wiki/Chebyshev_distance">image source</a>)</p>
+<p align="center"><img src="./images/chessboard_distance_example.png" width="400px"><br/>(<a href="https://en.wikipedia.org/wiki/Chebyshev_distance">image source</a>)</p>
 
 <hr>
 

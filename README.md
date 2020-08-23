@@ -30,9 +30,9 @@ Notes:
 
 <hr>
 
-## 3. <a href="https://mathworld.wolfram.com/VectorNorm.html">p-norm of vector v, norm[v, p]</a>
+## 3. <a href="https://mathworld.wolfram.com/VectorNorm.html">L<sup>p</sup> norm</a>, that is, p-norm of vector v, norm[v, p]
 
-<img src="./images/vector_norm_definition.png" width="200px">
+<p align="center"><img src="./images/vector_norm_definition.png" width="500px"></p>
 
 <hr>
 

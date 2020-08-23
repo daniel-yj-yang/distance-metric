@@ -86,6 +86,16 @@ May be used in the kNN algorithm.
 
 <hr>
 
+## 9. <a href="https://en.wikipedia.org/wiki/Jaccard_index">Jaccard distance</a>
+
+Dissimilarity between sample sets
+
+<img src="./images/Jaccard_distance.png" width="300px">
+
+Used to provide n x n matrix for multidimensional scaling.
+
+<hr>
+
 Some questions:
 
 (1) when to use the Euclidean Squared distance metric?

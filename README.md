@@ -48,6 +48,10 @@ Imagine a grid-like street geography of the Manhattan borough in NYC.
 
 ## 5. Cosine distance
 
+cosine distance = 1 - cosine similarity
+
+<img src="./images/cosine_similarity.png" width="200px"><br/>(based on the dot product of two vectors)
+
 <a href="https://cmry.github.io/notes/euclidean-v-cosine">Cosine similarity</a>, which is good at measuring the similarity of patterns of feature changes, *independent of* the absolute amplitude of the compared feature vectors.
 <br/><br/>
 May be used in a number of ML algorithms, including kNN.

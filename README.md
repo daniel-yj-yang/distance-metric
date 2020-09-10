@@ -92,9 +92,10 @@ May be used in a number of ML algorithms, including kNN and collaborative filter
 
 A generalization of both the Euclidean distance and the Manhattan distance in a normed vector space, used in kNN algorithm.
 
-<img src="./images/Minkowski_distance.png">
-
-<img src="./images/Minkowski_distance_p_value.png">
+<p align="center">
+<img src="./images/Minkowski_distance.png" width="400px"><br/>
+<img src="./images/Minkowski_distance_p_value.png" width="600px">
+</p>
 
 <hr>
 

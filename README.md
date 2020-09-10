@@ -94,7 +94,8 @@ A generalization of both the Euclidean distance and the Manhattan distance in a 
 
 <p align="center">
 <img src="./images/Minkowski_distance.png" width="500px"><br/>
-<img src="./images/Minkowski_distance_p_value.png" width="500px">
+<img src="./images/Minkowski_distance_p_value.png" width="500px"><br/>
+Unit circles (the set of all points that are at the unit distance from the centre) with various values of p
 </p>
 
 <hr>

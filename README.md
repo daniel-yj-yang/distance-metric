@@ -90,7 +90,7 @@ May be used in a number of ML algorithms, including kNN and collaborative filter
 
 ## 7. <a href="https://en.wikipedia.org/wiki/Minkowski_distance">Minkowski distance</a>
 
-A generalization of both the Euclidean distance and the Manhattan distance in a normed vector space, used in kNN algorithm.
+A generalization of both the Euclidean distance and the Manhattan distance in a normed vector space, used in kNN algorithm (In KNeighborsClassifier from sklearn, the default metric is minkowski with p=2, which is equivalent to the standard Euclidean metric).
 
 <p align="center">
 <img src="./images/Minkowski_distance.png" width="500px"><br/>
